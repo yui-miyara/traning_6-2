@@ -1,0 +1,168 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.main_content {
+  text-align: center;
+}
+
+.content_1 {
+  background-image:url(../images/Group\ 183.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  width: 100%;
+  height: auto;
+  margin-bottom: 48px;
+}
+
+.logo {
+  background-image: url(../images/stocksun_logo.png);
+  background-size: cover;
+  height: 48.6px;
+  max-width: 186.78px;
+  padding-top: 14.44px;
+  padding-left: 40.59px;
+}
+
+.text1 {
+  color: white;
+  text-align: center;
+  font-size: 28px;
+  font-weight: 700;
+  font-family: 'Noto Sans JP', sans-serif;
+}
+
+.sub_title {
+  display: none;
+  padding-left: 25%;
+}
+
+.date {
+  color: white;
+  text-align: center;
+  font-size: 43.37px;
+  font-weight: 700;
+  font-style: italic;
+  line-height: 43.37px;
+}
+
+.date span {
+  color: white;
+  text-align: center;
+  font-size: 33.36px;
+  font-weight: 700;
+  font-style: italic;
+  line-height: 43.37px;
+}
+
+.text2 {
+  color: white;
+  text-align: center;
+  font-size: 29.19px;
+  font-weight: 700;
+  font-family: 'Noto Sans JP', sans-serif;
+}
+
+.linebutton {
+  background-image: url(../images/button.png);
+  height: 64px;
+  max-width: 424px;
+  margin: 0 auto;
+}
+
+@media screen and (max-width:1000px) {
+  .logo {
+    max-width: 124px;
+    height: 32.4px;
+  }
+
+  .text1 {
+    font-size: 24px;
+    font-weight: 650;
+  }
+
+  .date {
+    font-size: 32px;
+    font-weight: 650;
+  }
+
+  .date span {
+    font-size: 28px;
+    font-weight: 600;
+  }
+
+  .text2 {
+    font-size: 24px;
+    font-weight: 650;
+  }
+}
+
+@media screen and (max-width:600px) {
+  .logo {
+    max-width: 84.5px;
+    height: 21.6px;
+  }
+
+  .text1 {
+    font-size: 16px;
+    font-weight: 600;
+  }
+
+  .date {
+    font-size: 24px;
+    font-weight: 600;
+  }
+
+  .date span {
+    font-size: 20px;
+    font-weight: 550;
+  }
+
+  .text2 {
+    font-size: 16px;
+    font-weight: 600;
+  }
+
+  .linebutton {
+    display: none;
+  }
+
+  .dym_logo {
+    display: none;
+  }
+
+  .sub_title {
+    display: block;
+  }
+}
+
+@media screen and (max-width:440px) {
+  .logo {
+    max-width: 58.5px;
+    height: 14.4px;
+  }
+
+  .text1 {
+    font-size: 12px;
+    font-weight: 560;
+  }
+
+  .date {
+    font-size: 20px;
+    font-weight: 560;
+    margin-bottom: 0px;
+  }
+
+  .date span {
+    font-size: 16px;
+    font-weight: 510;
+  }
+
+  .text2 {
+    font-size: 12px;
+    font-weight: 560;
+    margin-top: -8px;
+  }
+}
