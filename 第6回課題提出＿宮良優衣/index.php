@@ -71,6 +71,68 @@
         <img class="img3_1"></img>
       </div>
     </div>
+    <div class="content_3">
+      <div class="contents">Contents</div>
+      <div class="text7"></div>
+      <div class="detail">
+        <div class="detail_1">
+          <div class="obi">
+            <p>フリーランスに特化した企業エリア</p>
+          </div>
+          <p class="text8">出会いたい企業にきっと会える</p>
+          <div class="blue"></div>
+          <p class="text10"><span>60</span>ブースの企業エリア</p>
+          <div class="pic_1"></div>
+
+
+        </div>
+        <div class="detail_2">
+          <div class="obi">
+            <p>各業界の著名人が登場</p>
+          </div>
+          <p class="text9">ここでしか聞けない話が聞ける</p>
+          <div class="blue"></div>
+          <p class="text10_2">豪華セミナーを開催</p>
+          <div class="pic_2"></div>
+
+        </div>
+        
+      </div>
+      <div class="linebutton_2"></div>
+    </div>
+
+    <div class="content_3_s">
+      <div class="contents_s">Contents</div>
+      <div class="text7_s">
+        <img src="./images/Line 6.png" width="30" height="2"></img>
+        <p>イベント内容</p>
+        <img src="./images/Line 6.png" width="30" height="2"></img>
+      </div>
+      <div class="detail_s">
+        <div class="detail_1_s">
+          <div class="obi_s">
+            <p>フリーランスに特化した企業エリア</p>
+          </div>
+          <p class="text8_s">出会いたい企業にきっと会える</p>
+          <div class="blue_s"></div>
+          <p class="text10_s"><span>60</span>ブースの企業エリア</p>
+          <div class="pic_1_s"></div>
+
+
+        </div>
+        <div class="detail_2_s">
+          <div class="obi_s">
+            <p>各業界の著名人が登場</p>
+          </div>
+          <p class="text9_s">ここでしか聞けない話が聞ける</p>
+          <div class="blue_s"></div>
+          <p class="text10_2_s">豪華セミナーを開催</p>
+          <div class="pic_2_s"></div>
+
+        </div>
+        
+      </div>
+    </div>
   </div>
 </body>
 </html>
