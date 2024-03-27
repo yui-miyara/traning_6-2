@@ -175,6 +175,16 @@
       <div class="strait_2"></div>
 
     </div>
+    <div class="content_5">
+      <div class="about">About Exhibitors</div>
+      <div class="text11"></div>
+      <div class="list">
+        <div class="list_1">オープラン株式会社<br>株式会社ビズリンク<br>株式会社カルテットコミュニケーションズ<br>クリーヴァ株式会社<br>株式会社グランドホープ<br>Modis株式会社<br>INTLOOP株式会社<br>Langdemy株式会社<br>BOCジャパン合同会社</div>
+        <div class="list_2">株式会社アユザック<br>株式会社HandAid<br>株式会社J-Proach<br>ラーメン協会<br>株式会社おウチdeお肉<br>株式会社LifeCoach<br>株式会社スポーツ＆ライフイノベーション<br>株式会社iGo<br>株式会社エドモンド</del></div>
+      </div>
+      <div class="text12">（順不同、一部企業のみ掲載）</div>
+
+    </div>
     
         
   </div>
