@@ -130,9 +130,53 @@
           <div class="pic_2_s"></div>
 
         </div>
-        
       </div>
     </div>
+
+    <div class="content_4">
+      <div class="strait_1"></div>
+      <div class="pick">
+        <div class="pickup">Pick Up</div>
+        <div class="text11"></div>
+        <table class="company">
+          <tr>
+            <td class="logo_1">
+              <img src="./images/opl.png" width="110.25" height="30"></img>
+            </td>
+            <td class="logo_text">オープラン株式会社は「ITサービス」を軸に「人」と「グローバル」に向き合い日本を代表する企業になるべく2015年に産声をあげたベンチャー企業です。<br><a href="https://oplan.co.jp/" target="_blank" rel="noopener">https://oplan.co.jp/</a></td>
+          </tr>
+          <tr>
+            <td class="logo_2">
+              <img src="./images/PE.png" width="223" height="19"></img>
+            </td>
+            <td class="logo_text">ITフリーランスの仕事探しながら[PE-BANK]へ。Web・SE系を中心に毎月1000件以上のご紹介。</td>
+          </tr>
+          <tr>
+            <td class="logo_3">
+              <img src="./images/BOC.png" width="266.79" height="30"></img>
+            </td>
+            <td class="logo_text">台湾の「食文化」の導入により、日本の飲食業をクリエイティブに。</td>
+          </tr>
+          <tr>
+            <td class="logo_4">
+              <img src="./images/creava.png" width="124" height="57"></img>
+            </td>
+            <td class="logo_text">月額制システム開発チームレンタルSucSak(サクサク)を運営している東京新宿のシステム開発会社です。<br><img src="./images/Suc.png" width="95" height="21"></img>:https://sucsak.com/</td>
+          </tr>
+          <tr>
+            <td class="logo_5">
+              <img src="./images/QUA.png" width="103" height="42"></img>
+            </td>
+            <td class="logo_text_5"><p>1000業種以上の圧倒的運営実績!リスティング、Facebook・TwitterなどのSNS広告もおまかせ。</p></td>
+          </tr>
+
+        </table>
+      </div>
+      <div class="strait_2"></div>
+
+    </div>
+    
+        
   </div>
 </body>
 </html>

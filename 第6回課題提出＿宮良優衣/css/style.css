@@ -871,7 +871,6 @@
 @media screen and (max-width:1200px) {
   .detail {
     width: 90%;
-    height: 800px;
   }
 
 }
@@ -887,6 +886,7 @@
     align-items: center;
     justify-content: center;
     justify-content:space-between;
+    height: 800px;
   }
 
 }
@@ -900,4 +900,370 @@
     display: block;
   }
 
+}
+
+.content_4 {
+  display: flex;
+  width: 100%;
+}
+
+.strait_1 {
+  background-image: url(../images/Rectangle\ 133.png);
+  height: 626px;
+  width: 50px;
+  margin-left: 0px;
+}
+
+.strait_2 {
+  background-image: url(../images/Rectangle\ 133.png);
+  height: 626px;
+  width: 50px;
+  margin-right: 0px;
+}
+
+.pick {
+  max-width: 1340px;
+  margin: 0 auto;
+}
+
+.pickup {
+  text-align: center;
+  color: #FDD35C;
+  font-size: 60px;
+  font-weight: 700;
+  font-style: italic;
+  margin-top: 60px;
+}
+
+.text11 {
+  background-image: url(../images/text11.png);
+  height: 18px;
+  max-width: 209px;
+  margin: 0 auto;
+  margin-bottom: 40px;
+}
+
+.company {
+  height: 375px;
+  width: 968px;
+
+}
+
+.logo_box {
+  height: 40px;
+  max-width: 300px;
+  margin: 0 auto;
+}
+
+.logo_1 {
+  height: 60px;
+  max-width: 30%;
+  margin: 0 auto;
+}
+.logo_text, .logo_text_5 {
+  max-width: 45%;
+  margin: 0 auto;
+  height: 48px;
+  color: black;
+  font-size: 16px;
+  font-weight: 500;
+  font-family: 'Noto Sans JP', sans-serif;
+  margin-bottom: 30px;
+  text-align: left;
+}
+
+.logo_text a {
+  display: block;
+  color: black;
+  font-weight: 500;
+  font-size: 16px;
+  text-align: left;
+}
+
+.logo_2 {
+  height: 60px;
+  max-width: 30%;
+  margin: 0 auto;
+}
+
+.logo_3 {
+  height: 60px;
+  max-width: 30%;
+  margin: 0 auto;
+}
+
+.logo_4 {
+  height: 60px;
+  max-width: 30%;
+  margin: 0 auto;
+}
+
+.logo_5 {
+  height: 60px;
+  max-width: 30%;
+  margin: 0 auto;
+}
+
+@media screen and (max-width:1000px) {
+  .company {
+    width: 80%;
+    margin: 0 auto;
+  }
+
+  .company td,
+  .company td {
+    display: block;
+    text-align: center;
+  }
+
+  .logo_1 {
+    max-width: 40%;
+    margin: 0 auto;
+  }
+
+  .logo_1 img {
+    width: 120px;
+    height: auto;
+  }
+
+  .logo_2 {
+    max-width: 40%;
+    margin: 0 auto;
+  }
+
+  .logo_2 img {
+    width: 240px;
+    height: auto;
+  }
+
+  .logo_3 {
+    max-width: 40%;
+    margin: 0 auto;
+  }
+
+  .logo_3 img {
+    width: 300px;
+    height: auto;
+  }
+
+  .logo_4 {
+    max-width: 40%;
+    margin: 0 auto;
+    margin-top: -30px;
+    margin-bottom: 30px;
+  }
+
+  .logo_4 img {
+    width: 200px;
+    height: auto;
+  }
+
+  .logo_5 {
+    max-width: 40%;
+    margin: 0 auto;
+    margin-top: 10px;
+    margin-bottom: 10px;
+  }
+
+  .logo_5 img {
+    width: 130px;
+    height: auto;
+  }
+
+  .logo_text, .logo_text_5 {
+    max-width: 80%;
+    margin: 0 auto;
+    height: 96px;
+    font-size: 20px;
+    margin-bottom: 30px;
+  }
+
+  .logo_text a {
+    display: none;
+  }
+
+  .strait_1,
+  .strait_2 {
+    height: 1100px;
+  }
+}
+
+@media screen and (max-width:750px) {
+  .logo_1 {
+    max-width: 40%;
+    margin: 0 auto;
+  }
+
+  .logo_1 img {
+    width: 150px;
+    height: auto;
+  }
+
+  .logo_2 {
+    max-width: 50%;
+    margin: 0 auto;
+  }
+
+  .logo_2 img {
+    width: 270px;
+    height: auto;
+  }
+
+  .logo_3 {
+    max-width: 70%;
+    margin: 0 auto;
+  }
+
+  .logo_3 img {
+    width: 330px;
+    height: auto;
+  }
+
+  .logo_4 {
+    max-width: 40%;
+    margin: 0 auto;
+    margin-top: -50px;
+    margin-bottom: 50px;
+  }
+
+  .logo_4 img {
+    width: 230px;
+    height: auto;
+  }
+
+  .logo_5 {
+    max-width: 50%;
+    margin: 0 auto;
+    margin-top: 10px;
+    margin-bottom: 20px;
+  }
+
+  .logo_5 img {
+    width: 160px;
+    height: auto;
+  }
+
+  .logo_text, .logo_text_5 {
+    max-width: 90%;
+    margin: 0 auto;
+    height: 96px;
+    font-size: 20px;
+    margin-bottom: 35px;
+  }
+
+  .strait_1,
+  .strait_2 {
+    height: 1200px;
+  }
+}
+
+@media screen and (max-width:550px) {
+  .pickup {
+    font-size: 48px;
+  }
+
+  .logo_1 {
+    max-width: 40%;
+    margin: 0 auto;
+  }
+
+  .logo_1 img {
+    width: 150px;
+    height: auto;
+  }
+
+  .logo_2 {
+    max-width: 70%;
+    margin: 0 auto;
+    margin-top: 30px;
+  }
+
+  .logo_2 img {
+    width: 270px;
+    height: auto;
+  }
+
+  .logo_3 {
+    max-width: 70%;
+    margin: 0 auto;
+  }
+
+  .logo_3 img {
+    width: 330px;
+    height: auto;
+  }
+
+  .logo_4 {
+    max-width: 60%;
+    margin: 0 auto;
+    margin-top: -50px;
+    margin-bottom: 50px;
+  }
+
+  .logo_4 img {
+    width: 230px;
+    height: auto;
+  }
+
+  .logo_5 img {
+    display: none;
+  }
+
+  .logo_text_5 p {
+    display: none;
+  }
+
+  .strait_1,
+  .strait_2 {
+    height: 1050px;
+  }
+}
+
+@media screen and (max-width:430px) {
+  .pickup {
+    font-size: 36px;
+  }
+
+  .logo_1 {
+    max-width: 50%;
+    margin: 0 auto;
+  }
+
+  .logo_1 img {
+    width: 150px;
+    height: auto;
+  }
+
+  .logo_2 {
+    max-width: 90%;
+    margin: 0 auto;
+    margin-top: 50px;
+  }
+
+  .logo_2 img {
+    width: 270px;
+    height: auto;
+  }
+
+  .logo_3 {
+    max-width: 90%;
+    margin: 0 auto;
+  }
+
+  .logo_3 img {
+    width: 330px;
+    height: auto;
+  }
+
+  .logo_4 {
+    max-width: 70%;
+    margin: 0 auto;
+    margin-top: -50px;
+    margin-bottom: 50px;
+  }
+
+  .logo_4 img {
+    width: 230px;
+    height: auto;
+  }
 }
