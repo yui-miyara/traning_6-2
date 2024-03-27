@@ -1078,6 +1078,10 @@
     margin-bottom: 30px;
   }
 
+  .logo_text_5 {
+    margin-bottom: 0px;
+  }
+
   .logo_text a {
     display: none;
   }
@@ -1265,5 +1269,127 @@
   .logo_4 img {
     width: 230px;
     height: auto;
+  }
+}
+
+.content_5 {
+  background-image: url(../images/Group\ 192.svg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  height: 517px;
+  width: 100%;
+  margin-bottom: 96px;
+}
+
+.about {
+  color: #81d7fc;
+  text-align: center;
+  font-size: 60px;
+  font-weight: 700;
+  font-style: italic;
+}
+
+.text11 {
+  background-image: url(../images/undertext3.png);
+  height: 18px;
+  max-width: 269px;
+  margin: 0 auto;
+  margin-bottom: 48px;
+}
+
+.list {
+  display: flex;
+  max-width: 65%;
+  margin: 0 auto;
+  justify-content: space-between;
+  margin-bottom: 24px;
+}
+
+.list_1 {
+  color: black;
+  text-align: left;
+  font-size: 20px;
+  font-weight: 500;
+  line-height: 40px;
+  font-family: 'Noto Sans JP', sans-serif;
+}
+
+.list_2 {
+  color: black;
+  text-align: left;
+  font-size: 20px;
+  font-weight: 500;
+  line-height: 40px;
+  font-family: 'Noto Sans JP', sans-serif;
+}
+
+.text12 {
+  color: black;
+  text-align: right;
+  padding-right: 200px;
+  font-size: 20px;
+  font-weight: 500;
+  line-height: 36px;
+  font-family: 'Noto Sans JP', sans-serif;
+  margin-bottom: 60px;
+}
+
+@media screen and (max-width:1000px) {
+  .content_5 {
+    background-image: url(../images/content5_s.svg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 600px;
+    width: 100%;
+    margin-bottom: 96px;
+    margin-top: -30px;
+  }
+
+  .about {
+    font-size: 52px;
+  }
+
+  .list {
+    max-width: 80%;
+  }
+}
+
+@media screen and (max-width:800px) {
+  .about {
+    font-size: 48px;
+  }
+
+  .list {
+    max-width: 95%;
+  }
+
+  .list_1, .list_2, .text12 {
+    font-size: 16px;
+  }
+}
+
+@media screen and (max-width:600px) {
+  .content_5 {
+    margin-top: -20px;
+  }
+
+  .about {
+    font-size: 44px;
+  }
+
+  .list {
+    max-width: 97%;
+  }
+
+  .list_1, .list_2, .text12 {
+    font-size: 14px;
+  }
+}
+
+@media screen and (max-width:550px) {
+  .content_5 {
+    margin-top: -150px;
   }
 }
