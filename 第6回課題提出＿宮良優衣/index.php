@@ -470,6 +470,19 @@
       </div>
 
     </div>
+    <div class="content_8">
+      <div class="content8_maru">
+        <div class="content8_maru_logo">出展希望企業はこちら</div>
+      </div>
+      <div class="border">
+        <img src="./images/content8_border.png" width="90%" height="2"></img>
+      </div>
+      <div class="header">
+        <p>運営会社</p>
+        <img src="./images/stocksun_logo.png" width="210" height="64"></img>
+        <p>個人情報保護方針</p>
+      </div>
+    </div>
     
         
   </div>
