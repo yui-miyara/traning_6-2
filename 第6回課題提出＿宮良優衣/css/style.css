@@ -1393,3 +1393,788 @@
     margin-top: -150px;
   }
 }
+
+.content_6 {
+  background-image: url(../images/background_4.png);
+  background-size: cover;
+  height: 1520px;
+  width: 100%;
+  margin-bottom: 48px;
+}
+
+.schedule {
+  color: #00a8f0;
+  text-align: center;
+  font-size: 60px;
+  font-weight: 700;
+  font-style: italic;
+  line-height: 40px;
+  padding-top: 60px;
+  padding-bottom: 24px;
+}
+
+.text13 {
+  background-image: url(../images/text13.png);
+  height: 18px;
+  max-width: 269px;
+  margin: 0 auto;
+}
+
+.people {
+  height: 1050px;
+  max-width: 75%;
+  margin: 0 auto;
+  margin-top: 48px;
+}
+
+.people_1 {
+  display: flex;
+  justify-content: space-between;
+  max-width: 100%;
+  margin: 0 auto;
+  margin-bottom: 24px;
+}
+
+.people_box {
+  background-image: url(../images/glay.png);
+  height: 254px;
+  width: 300px;
+}
+
+.people_2 {
+  display: flex;
+  justify-content: space-between;
+  max-width: 100%;
+  margin: 0 auto;
+  margin-bottom: 24px;
+}
+
+.people_3 {
+  display: flex;
+  justify-content: space-between;
+  max-width: 100%;
+  margin: 0 auto;
+  margin-bottom: 24px;
+}
+
+.people_4 {
+  display: flex;
+  justify-content: space-between;
+  max-width: 100%;
+  margin: 0 auto;
+  margin-bottom: px;
+}
+
+.people_minbox {
+  background-image: url(../images/minbox.png);
+  height: 192px;
+  width: 300px;
+}
+
+.people_logo {
+  background-image: url(../images/Group\ 219.svg);
+  height: 31px;
+  width: 88px;
+  margin-top: 10px;
+  margin-left: -5px;
+  font-size: 16px;
+  font-weight: 700;
+  line-height: 16px;
+  font-family: 'Noto Sans JP', sans-serif;
+}
+
+.people_logo p {
+  font-size: 16px;
+  font-weight: 700;
+  line-height: 16px;
+  font-family: 'Noto Sans JP', sans-serif;
+  padding-left: 10px;
+  padding-top: 7px;
+}
+
+.people_pic_1 {
+  background-image: url(../images/Group\ DJ社長.png);
+  height: 134.04px;
+  width: 130px;
+  margin-left: 85px;
+  margin-top: -20px;
+  margin-bottom: 30px;
+}
+
+.people_1_text {
+  height: 27px;
+  max-width: 256px;
+  margin: 0 auto;
+  font-size: 20px;
+  font-weight: 700;
+  line-height: 20px;
+  font-family: 'Noto Sans JP', sans-serif;
+}
+
+.people_pic_2 {
+  background-image: url(../images/田端.png);
+  height: 133.76px;
+  width: 130px;
+  margin-left: 85px;
+  margin-top: -20px;
+  margin-bottom: 20px;
+}
+
+.people_2_text {
+  height: 77px;
+  max-width: 266px;
+  margin: 0 auto;
+  font-size: 20px;
+  font-weight: 700;
+  line-height: 25px;
+  font-family: 'Noto Sans JP', sans-serif;
+}
+
+.people_pic_3 {
+  background-image: url(../images/宋.png);
+  height: 133.76px;
+  width: 130px;
+  margin-left: 85px;
+  margin-top: -20px;
+  margin-bottom: 30px;
+}
+
+.people_3_text {
+  height: 52px;
+  max-width: 266px;
+  margin: 0 auto;
+  font-size: 20px;
+  font-weight: 700;
+  line-height: 25px;
+  font-family: 'Noto Sans JP', sans-serif;
+}
+
+.people_pic_4 {
+  background-image: url(../images/林.png);
+  height: 133.76px;
+  width: 130px;
+  margin-left: 85px;
+  margin-top: -20px;
+  margin-bottom: 20px;
+}
+
+.people_4_text {
+  height: 78px;
+  max-width: 266px;
+  margin: 0 auto;
+  font-size: 20px;
+  font-weight: 700;
+  line-height: 25px;
+  font-family: 'Noto Sans JP', sans-serif;
+}
+
+.people_pic_5 {
+  background-image: url(../images/木下.png);
+  height: 133.76px;
+  width: 130px;
+  margin-left: 85px;
+  margin-top: -20px;
+  margin-bottom: 30px;
+} 
+
+.people_5_text {
+  height: 52px;
+  max-width: 266px;
+  margin: 0 auto;
+  font-size: 20px;
+  font-weight: 700;
+  line-height: 25px;
+  font-family: 'Noto Sans JP', sans-serif;
+}
+
+.people_pic_6 {
+  background-image: url(../images/株本.png);
+  height: 133.76px;
+  width: 130px;
+  margin-left: 85px;
+  margin-top: -20px;
+  margin-bottom: 30px;
+}
+
+.people_6_text {
+  height: 52px;
+  max-width: 266px;
+  margin: 0 auto;
+  font-size: 20px;
+  font-weight: 700;
+  line-height: 25px;
+  font-family: 'Noto Sans JP', sans-serif;
+}
+
+.people_pic_7 {
+  display: flex;
+}
+
+.people_pic_7_1 {
+  background-image: url(../images/やまもと.png);
+  height: 100.16px;
+  width: 100.16px;
+}
+
+.people_pic_7_2 {
+  background-image: url(../images/迫.png);
+  height: 100.16px;
+  width: 100.16px;
+}
+
+.people_pic_7_3 {
+  background-image: url(../images/青笹.png);
+  height: 100.16px;
+  width: 100.16px;
+}
+
+.people_pic_7_obi {
+  background-image: url(../images/people_7_obi.png);
+  width: 285px;
+  height: 28px;
+  display: flex;
+  margin-left: 8px;
+}
+
+.people_pic_7_obi_1 {
+  font-size: 11px;
+  font-weight: 700;
+  font-family: 'Noto Sans JP', sans-serif;
+  padding-left: 20px;
+}
+
+.people_pic_7_obi_2 {
+  font-size: 15px;
+  line-height: 15px;
+  font-weight: 700;
+  font-family: 'Noto Sans JP', sans-serif;
+  padding-top: 7px;
+  padding-left: 20px;
+}
+
+.people_pic_7_obi_3 {
+  font-size: 15px;
+  line-height: 15px;
+  font-weight: 700;
+  font-family: 'Noto Sans JP', sans-serif;
+  padding-top: 7px;
+  padding-left: 20px;
+}
+
+.people_7_text {
+  width: 260px;
+  height: 52px;
+  font-size: 20px;
+  line-height: 25px;
+  font-weight: 700;
+  font-family: 'Noto Sans JP', sans-serif;
+  margin-top: 16px;
+  margin-left: 25px;
+}
+
+.people_pic_8 {
+  background-image: url(../images/井上.png);
+  height: 133.76px;
+  width: 130px;
+  margin-left: 85px;
+  margin-top: -20px;
+  margin-bottom: 20px;
+}
+
+.people_8_text {
+  height: 77px;
+  max-width: 266px;
+  margin: 0 auto;
+  font-size: 20px;
+  font-weight: 700;
+  line-height: 25px;
+  font-family: 'Noto Sans JP', sans-serif;
+}
+
+.people_pic_9 {
+  display: flex;
+}
+
+.people_pic_9_1 {
+  background-image: url(../images/板橋.png);
+  height: 112.69px;
+  width: 112.69px;
+  margin-left: 36px;
+  margin-top: -18px;
+}
+
+.people_pic_9_2 {
+  background-image: url(../images/藍口.png);
+  height: 108.44px;
+  width: 108.44px;
+  margin-left: 10px;
+  margin-top: -18px;
+}
+
+.people_pic_9_obi {
+  background-image: url(../images/people_9_obi.png);
+  height: 28.38px;
+  max-width: 239.35px;
+  margin: 0 auto;
+  margin-bottom: 20px;
+}
+
+.people_9_text {
+  height: 52px;
+  max-width: 273px;
+  margin: 0 auto;
+  font-size: 20px;
+  font-weight: 700;
+  line-height: 25px;
+  font-family: 'Noto Sans JP', sans-serif;
+}
+
+.people_pic_10 {
+  background-image: url(../images/岩井.png);
+  height: 133.76px;
+  width: 130px;
+  margin-left: 85px;
+  margin-top: -20px;
+  margin-bottom: 30px;
+}
+
+.people_10_text {
+  height: 52px;
+  max-width: 266px;
+  margin: 0 auto;
+  font-size: 20px;
+  font-weight: 700;
+  line-height: 25px;
+  font-family: 'Noto Sans JP', sans-serif;
+}
+
+.people_pic_11 {
+  background-image: url(../images/島袋.png);
+  height: 133.76px;
+  width: 130px;
+  margin-left: 85px;
+  margin-top: -20px;
+  margin-bottom: 30px;
+}
+
+.people_11_text {
+  height: 52px;
+  max-width: 266px;
+  margin: 0 auto;
+  font-size: 20px;
+  font-weight: 700;
+  line-height: 25px;
+  font-family: 'Noto Sans JP', sans-serif;
+}
+
+.people_pic_12 {
+  background-image: url(../images/植本.png);
+  height: 136px;
+  width: 247.16px;
+  margin-left: 30px;
+  margin-top: -20px;
+  margin-bottom: 30px;
+}
+
+.people_s {
+  display: none;
+}
+
+.people_1_s {
+  display:flex;
+  flex-flow: column;
+  align-items: center;
+  justify-content: center;
+  justify-content:space-between;
+  height: 350px;
+  margin-top: 30px;
+}
+
+.people_box_s{
+  background-image: url(../images/content6_peoplebox_s.png);
+  width: 354px;
+  height: 103px;
+  margin: 0 auto;
+}
+
+.people_1_ss {
+  display: flex;
+  justify-content: space-between;
+}
+
+.people_1_text_s {
+  font-size: 16px;
+  font-weight: 700;
+  line-height: 16px;
+  font-family: 'Noto Sans JP', sans-serif;
+  padding-top: 15px;
+  padding-left: 10px;
+}
+
+.people_pic_1_s {
+  background-image: url(../images/people_pic_1_s.png);
+  height: 89px;
+  width: 87.11px;
+  margin-top: -35px;
+  margin-right: 15px;
+}
+
+.people_2_ss {
+  display: flex;
+  justify-content: space-between;
+}
+
+.people_2_text_s {
+  width: 220px;
+  font-size: 16px;
+  font-weight: 700;
+  line-height: 17.6px;
+  font-family: 'Noto Sans JP', sans-serif;
+  padding-top: 15px;
+  padding-left: 10px;
+}
+
+.people_pic_2_s{
+  background-image: url(../images/people_pic_2_s.png);
+  height: 90px;
+  width: 87.11px;
+  margin-top: -35px;
+  margin-right: 15px;
+}
+
+.people_3_ss {
+  display: flex;
+  justify-content: space-between;
+}
+
+.people_3_text_s {
+  width: 200px;
+  font-size: 16px;
+  font-weight: 700;
+  line-height: 17.6px;
+  font-family: 'Noto Sans JP', sans-serif;
+  padding-top: 15px;
+  padding-left: 10px;
+}
+
+.people_pic_3_s {
+  background-image: url(../images/people_pic_3_s.png);
+  height: 90px;
+  width: 87.11px;
+  margin-top: -35px;
+  margin-right: 15px;
+}
+
+.people_2_s {
+  display:flex;
+  flex-flow: column;
+  align-items: center;
+  justify-content: center;
+  justify-content:space-between;
+  height: 350px;
+  margin-top: 30px;
+  display: none;
+}
+
+.people_4_ss {
+  display: flex;
+  justify-content: space-between;
+}
+
+.people_4_text_s {
+  width: 220px;
+  font-size: 16px;
+  font-weight: 700;
+  line-height: 17.6px;
+  font-family: 'Noto Sans JP', sans-serif;
+  padding-top: 15px;
+  padding-left: 10px;
+}
+
+.people_pic_4_s {
+  background-image: url(../images/people_pic_4_s.png);
+  height: 90px;
+  width: 87.11px;
+  margin-top: -35px;
+  margin-right: 15px;
+}
+
+.people_5_ss {
+  display: flex;
+  justify-content: space-between;
+}
+
+.people_5_text_s {
+  width: 231px;
+  font-size: 16px;
+  font-weight: 700;
+  line-height: 20.8px;
+  font-family: 'Noto Sans JP', sans-serif;
+  padding-top: 15px;
+  padding-left: 10px;
+}
+
+.people_pic_5_s {
+  background-image: url(../images/people_pic_5_s.png);
+  height: 90px;
+  width: 87.11px;
+  margin-top: -35px;
+  margin-right: 15px;
+  margin-left: 0px;
+}
+
+.people_6_ss {
+  display: flex;
+  justify-content: space-between;
+}
+
+.people_6_text_s {
+  width: 231px;
+  font-size: 16px;
+  font-weight: 700;
+  line-height: 17.6px;
+  font-family: 'Noto Sans JP', sans-serif;
+  padding-top: 15px;
+  padding-left: 10px;
+}
+
+.people_pic_6_s {
+  background-image: url(../images/people_pic_6_s.png);
+  height: 90px;
+  width: 87.11px;
+  margin-top: -35px;
+  margin-right: 15px;
+}
+
+.people_3_s {
+  display:flex;
+  flex-flow: column;
+  align-items: center;
+  justify-content: center;
+  justify-content:space-between;
+  height: 350px;
+  display: none;
+}
+
+.people_7_ss {
+  display: flex;
+  justify-content: space-between;
+}
+
+.people_7_text_s {
+  width: 140px;
+  font-size: 16px;
+  font-weight: 700;
+  line-height: 17.6px;
+  font-family: 'Noto Sans JP', sans-serif;
+  padding-top: 15px;
+  padding-left: 10px;
+}
+
+.people_pic_7_s {
+  background-image: url(../images/people_pic_7_s.png);
+  height: 74px;
+  width: 195px;
+  margin-top: -30px;
+  margin-right: 10px;
+}
+
+.people_8_ss {
+  display: flex;
+  justify-content: space-between;
+}
+
+.people_8_text_s {
+  width: 231px;
+  font-size: 16px;
+  font-weight: 700;
+  line-height: 17.6px;
+  font-family: 'Noto Sans JP', sans-serif;
+  padding-top: 15px;
+  padding-left: 10px;
+}
+
+.people_pic_8_s {
+  background-image: url(../images/people_pic_8_s.png);
+  height: 90px;
+  width: 87.11px;
+  margin-top: -35px;
+  margin-right: 15px;
+}
+
+.people_9_ss {
+  display: flex;
+  justify-content: space-between;
+}
+
+.people_9_text_s {
+  width: 168px;
+  height: 54px;
+  font-size: 16px;
+  font-weight: 700;
+  line-height: 17.6px;
+  font-family: 'Noto Sans JP', sans-serif;
+  padding-top: 8px;
+  padding-left: 5px;
+}
+
+.people_pic_9_s {
+  background-image: url(../images/people_pic_9_s.png);
+  height: 82px;
+  width: 161px;
+  margin-top: -35px;
+  margin-right: 10px;
+}
+
+.people_4_s {
+  display:flex;
+  flex-flow: column;
+  align-items: center;
+  justify-content: center;
+  justify-content:space-between;
+  height: 350px;
+  display: none;
+}
+
+.people_10_ss {
+  display: flex;
+  justify-content: space-between;
+}
+
+.people_10_text_s {
+  width: 211px;
+  height: 54px;
+  font-size: 16px;
+  font-weight: 700;
+  line-height: 17.6px;
+  font-family: 'Noto Sans JP', sans-serif;
+  padding-top: 15px;
+  padding-left: 10px;
+}
+
+.people_pic_10_s {
+  background-image: url(../images/people_pic_10_s.png);
+  height: 90px;
+  width: 87.11px;
+  margin-top: -35px;
+  margin-right: 10px;
+}
+
+.people_11_ss {
+  display: flex;
+  justify-content: space-between;
+}
+
+.people_11_text_s {
+  width: 211px;
+  height: 54px;
+  font-size: 16px;
+  font-weight: 700;
+  line-height: 17.6px;
+  font-family: 'Noto Sans JP', sans-serif;
+  padding-top: 15px;
+  padding-left: 10px;
+}
+
+.people_pic_11_s {
+  background-image: url(../images/people_pic_11_s.png);
+  height: 90px;
+  width: 87.11px;
+  margin-top: -25px;
+  margin-right: 10px;
+}
+
+.people_pic_12_s {
+  background-image: url(../images/people_pic_12_s.png);
+  height: 90px;
+  width: 173px;
+  margin-top: -25px;
+  margin-left: 25%;
+}
+
+.readmore {
+  background-image: url(../images/readmore.png);
+  width: 115px;
+  height: 26px;
+  margin: 0 auto;
+  margin-top: 30px;
+  display: none;
+}
+
+.readmore p {
+  color: white;
+  font-size: 18px;
+  line-height: 18px;
+  font-style: italic;
+  padding-top: 5px;
+}
+
+.people_2_s.active {
+  display: block;
+}
+
+.people_3_s.active {
+  display: block;
+}
+
+.people_4_s.active {
+  display: block;
+}
+
+.readmore.active {
+  display: block;
+}
+
+@media screen and (max-width:1250px) {
+  .people {
+    max-width: 85%;
+  }
+}
+
+@media screen and (max-width:1080px) {
+
+  .content_6 {
+    height: 4000px;
+  }
+
+  .people_1, .people_2, .people_3, .people_4 {
+    display:flex;
+    flex-flow: column;
+    align-items: center;
+    justify-content: center;
+    justify-content:space-between;
+    height: 900px;
+  }
+
+  .people {
+    max-width: 60%;
+  }
+
+  .people_box {
+    margin-bottom: 30px;
+  }
+}
+
+@media screen and (max-width:500px) {
+  .content_6 {
+    height: 700px;
+  }
+
+  .schedule {
+    font-size: 44px;
+  }
+
+  .people {
+    display: none;
+  }
+
+  .people_s {
+    display: block;
+  }
+}
+
+@media screen and (max-width:400px) {
+  .schedule {
+    font-size: 36px;
+  }
+}

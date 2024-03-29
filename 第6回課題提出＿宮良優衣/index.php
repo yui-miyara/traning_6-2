@@ -185,8 +185,239 @@
       <div class="text12">（順不同、一部企業のみ掲載）</div>
 
     </div>
+    <div class="content_6">
+      <div class="schedule">Time Schedule</div>
+      <div class="text13"></div>
+      <div class="people">
+        <div class="people_1">
+          <div class="people_box">
+            <div class="people_logo">
+              <p>10:00~</p>
+            </div>
+            <div class="people_pic_1"></div>
+            <div class="people_1_text">今、SNSを始めるなら</div>
+          </div>
+          <div class="people_box">
+            <div class="people_logo">
+            <p>11:00~</p>
+            </div>
+            <div class="people_pic_2"></div>
+            <div class="people_2_text">会社員で出世する人と独立して成功する人の適正について</div>
+          </div>
+          <div class="people_box">
+            <div class="people_logo">
+              <p>11:40~</p>
+            </div>
+            <div class="people_pic_3"></div>
+            <div class="people_3_text">営業出身のフリーランスの<br>生存戦略</div>
+          </div>
+        </div>
+        <div class="people_2">
+          <div class="people_box">
+            <div class="people_logo">
+              <p>12:20~</p>
+            </div>
+            <div class="people_pic_4"></div>
+            <div class="people_4_">無数のフリーランスに発注してわかった優秀な人の特徴</div>
+          </div>
+          <div class="people_box">
+            <div class="people_logo">
+              <p>13:00~</p>
+            </div>
+            <div class="people_pic_5"></div>
+            <div class="people_5_text">現役上場企業社長が語る<br>最新WEBマーケティング論</div>
+          </div>
+          <div class="people_box">
+            <div class="people_logo">
+              <p>13:40~</p>
+            </div>
+            <div class="people_pic_6"></div>
+            <div class="people_6_text">月収300万までのロードマップ</div>
+          </div>
+        </div>
+        <div class="people_3">
+          <div class="people_box">
+            <div class="people_logo">
+              <p>14:20~</p>
+            </div>
+            <div class="people_pic_7">
+              <div class="people_pic_7_1"></div>
+              <div class="people_pic_7_2"></div>
+              <div class="people_pic_7_3"></div>
+            </div>
+            <div class="people_pic_7_obi">
+              <p class="people_pic_7_obi_1">やまもと<br>りゅうけん</p>
+              <p class="people_pic_7_obi_2">×   迫佑樹</p>
+              <p class="people_pic_7_obi_3">×   青笹寛史</p>
+            </div>
+            <div class="people_7_text">SNSを伸ばした先に見える世界</div>
+          </div>
+          <div class="people_box">
+            <div class="people_logo">
+              <p>15:00~</p>
+            </div>
+            <div class="people_pic_8"></div>
+            <div class="people_8_text">元サイバーエージェント局長による広告業界の未来予想図</div>
+          </div>
+          <div class="people_box">
+            <div class="people_logo">
+              <p>15:40~</p>
+            </div>
+            
+            <div class="people_pic_9">
+              <div class="people_pic_9_1"></div>
+              <div class="people_pic_9_2"></div>
+            </div>
+            <div class="people_pic_9_obi"></div>
+            <div class="people_9_text">エンジニアとして独立し、年収3000万円を超える方法</div>
+          </div>
+        </div>
+        <div class="people_4">
+          <div class="people_box">
+            <div class="people_logo">
+              <p>16:20~</p>
+            </div>
+            <div class="people_pic_10"></div>
+            <div class="people_10_text">累計300人以上、起業家を見て感じた成功法則</div>
+          </div>
+          <div class="people_box">
+            <div class="people_logo">
+              <p>17:00~</p>
+            </div>
+            <div class="people_pic_11"></div>
+            <div class="people_11_text">フリーランスにおすすめのM&Aトレンドを紹介</div>
+          </div>
+          <div class="people_minbox">
+            <div class="people_logo">
+              <p>MC</p>
+            </div>
+            <div class="people_pic_12"></div>
+          </div>
+        </div>
+      </div>
+
+      <div class="people_s">
+        <div class="people_1_s">
+          <div class="people_box_s">
+            <div class="people_logo">
+              <p>10:00~</p>
+            </div>
+            <div class="people_1_ss">
+              <div class="people_1_text_s">今、SNSを始めるなら</div>
+              <div class="people_pic_1_s"></div>
+            </div>
+          </div>
+          <div class="people_box_s">
+            <div class="people_logo">
+            <p>11:00~</p>
+            </div>
+            <div class="people_2_ss">
+              <div class="people_2_text_s">会社員で出世する人と独立して成功する人の適正について</div>
+              <div class="people_pic_2_s"></div>
+            </div>
+          </div>
+          <div class="people_box_s">
+            <div class="people_logo">
+              <p>11:40~</p>
+            </div>
+            <div class="people_3_ss">
+              <div class="people_3_text_s">営業出身のフリーランスの<br>生存戦略</div>
+              <div class="people_pic_3_s"></div>
+            </div>
+          </div>
+        </div>
+        <div class="people_2_s">
+          <div class="people_box_s">
+            <div class="people_logo">
+              <p>12:20~</p>
+            </div>
+            <div class="people_4_ss">
+              <div class="people_4_text_s">無数のフリーランスに発注してわかった優秀な人の特徴</div>
+              <div class="people_pic_4_s"></div>
+            </div>
+          </div>
+          <div class="people_box_s">
+            <div class="people_logo">
+              <p>13:00~</p>
+            </div>
+            <div class="people_5_ss">
+              <div class="people_5_text_s">現役上場企業社長が語る<br>最新WEBマーケティング論</div>
+              <div class="people_pic_5_s"></div>
+            </div>
+          </div>
+          <div class="people_box_s">
+            <div class="people_logo">
+              <p>13:40~</p>
+            </div>
+            <div class="people_6_ss">
+              <div class="people_6_text_s">月収300万までのロードマップ</div>
+              <div class="people_pic_6_s"></div>
+            </div>
+          </div>
+        </div>
+        <div class="people_3_s">
+          <div class="people_box_s">
+            <div class="people_logo">
+              <p>14:20~</p>
+            </div>
+            <div class="people_7_ss">
+              <div class="people_7_text_s">SNSを伸ばした先に見える世界</div>
+              <div class="people_pic_7_s"></div>
+            </div>
+          </div>
+          <div class="people_box_s">
+            <div class="people_logo">
+              <p>15:00~</p>
+            </div>
+            <div class="people_8_ss">
+              <div class="people_8_text_s">元サイバーエージェント局長による広告業界の未来予想図</div>
+              <div class="people_pic_8_s"></div>
+            </div>
+          </div>
+          <div class="people_box_s">
+            <div class="people_logo">
+              <p>15:40~</p>
+            </div>
+            <div class="people_9_ss">
+              <div class="people_9_text_s">エンジニアとして独立し、年収3000万円を超える方法</div>
+              <div class="people_pic_9_s"></div>
+            </div>
+          </div>
+        </div>
+        <div class="people_4_s">
+          <div class="people_box_s">
+            <div class="people_logo">
+              <p>16:20~</p>
+            </div>
+            <div class="people_10_ss">
+              <div class="people_10_text_s">累計300人以上、起業家を見て感じた成功法則</div>
+              <div class="people_pic_10_s"></div>
+            </div>
+          <div class="people_box_s">
+            <div class="people_logo">
+              <p>17:00~</p>
+            </div>
+            <div class="people_11_ss">
+              <div class="people_11_text_s">フリーランスにおすすめのM&Aトレンドを紹介</div>
+              <div class="people_pic_11_s"></div>
+            </div>
+          </div>
+          <div class="people_box_s">
+            <div class="people_logo">
+              <p>MC</p>
+            </div>
+            <div class="people_pic_12_s"></div>
+          </div>
+        </div>
+      </div>
+      <div class="readmore active" id="read">
+        <p>Read more</p>
+      </div>
+    </div>
     
         
   </div>
+  <script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
+  <script src="./js/index.js"></script>
 </body>
 </html>
