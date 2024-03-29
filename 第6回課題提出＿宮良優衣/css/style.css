@@ -2178,3 +2178,165 @@
     font-size: 36px;
   }
 }
+
+.content_7 {
+  margin-top: 300px;
+}
+
+.FAQ_content {
+  max-width: 50%;
+  height: 650px;
+  margin: 0 auto;
+}
+
+.FAQ {
+  color: #FDD35C;
+  font-size: 60px;
+  line-height: 60px;
+  font-weight: 700;
+  font-style: italic;
+  font-family: "Roboto";
+  text-align: center;
+  padding-top: 100px;
+  padding-bottom: 20px;
+  margin-top: -450px;
+}
+
+.text14 {
+  background-image: url(../images/content7_undertext.png);
+  max-width: 209px;
+  height: 18px;
+  margin: 0 auto;
+  margin-bottom: 50px;
+}
+
+.content7_right_white {
+  display: block;
+  margin-left: 78%;
+}
+
+.content7_right_blue {
+  display: block;
+  margin-left: 93%;
+  transform: rotate(29.24deg);
+}
+
+.content7_left {
+  display: block;
+}
+
+.QA_1, .QA_1_d {
+  margin-bottom: 20px;
+  display: flex;
+}
+
+.QA_1_Q {
+  background-image: url(../images/Q.png);
+  width: 33px;
+  height: 33px;
+}
+
+.QA_1_Q p {
+  color: white;
+  font-size: 18px;
+  font-weight: 500;
+  line-height: 27px;
+  font-family: "Roboto";
+  text-align: center;
+  padding-top: 3px;
+}
+
+.QA_1_Q_text {
+  padding-left: 30px;
+  padding-top: 3px;
+  font-size: 18px;
+  font-weight: 500;
+  line-height: 27px;
+  font-family: 'Noto Sans JP', sans-serif;
+}
+
+.QA_2, .QA_2_d {
+  margin-bottom: 60px;
+  display: flex;
+}
+
+.QA_2_A {
+  background-image: url(../images/A.png);
+  width: 33px;
+  height: 33px;
+}
+
+.QA_2_A p {
+  color: white;
+  font-size: 18px;
+  font-weight: 500;
+  line-height: 27px;
+  font-family: "Roboto";
+  text-align: center;
+  padding-top: 3px;
+}
+
+.QA_2_A_text {
+  padding-left: 30px;
+  padding-top: 3px;
+  font-size: 18px;
+  font-weight: 500;
+  line-height: 27px;
+  font-family: 'Noto Sans JP', sans-serif;
+}
+
+.tell_link {
+  margin-bottom: 30px;
+}
+
+.tell_link a {
+  color: black;
+}
+
+@media screen and (max-width:1080px) {
+  .FAQ_content {
+    max-width: 70%;
+    height: 550px;
+  }
+
+  .content_7 {
+    margin-top: 3150px;
+  }
+
+  .content7_right_white,
+  .content7_right_blue,
+  .content7_left, 
+  .tell_link {
+    display: none;
+  }
+}
+
+@media screen and (max-width:800px) {
+  .FAQ {
+      font-size: 48px;
+  }
+
+  .QA_1_Q_text,
+  .QA_2_A_text {
+    font-size: 16px;
+  }
+
+  .QA_1_d,
+  .QA_2_d {
+    display: none;
+  }
+}
+
+@media screen and (max-width:500px) {
+  .content_7 {
+    margin-top: 500px;
+  }
+
+  .FAQ {
+    font-size: 26px;
+}
+
+  .FAQ_content {
+    max-width: 75%;
+  }
+}

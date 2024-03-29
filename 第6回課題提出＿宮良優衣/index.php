@@ -414,6 +414,62 @@
         <p>Read more</p>
       </div>
     </div>
+
+    <div class="content_7">
+      <img src="./images/content7_right_white.png" width="205.88" height="198.91" class="content7_right_white"></img>
+      <img src="./images/content7_right_blue.png" width="67.49" height="65.17" class="content7_right_blue"></img>
+      <img src="./images/content7_left.png" width="137.38" height="133" class="content7_left"></img>
+      <div class="FAQ_content">
+        <div class="FAQ">FAQ</div>
+        <div class="text14"></div>
+        <div class="QA_1">
+          <div class="QA_1_Q">
+            <p>Q</p>
+          </div>
+          <div class="QA_1_Q_text">再入場はできますか？</div>
+          
+        </div>
+        <div class="QA_2">
+        <div class="QA_2_A">
+            <p>A</p>
+          </div>
+          <div class="QA_2_A_text">できます。</div>
+        </div>
+        <div class="QA_1">
+          <div class="QA_1_Q">
+            <p>Q</p>
+          </div>
+          <div class="QA_1_Q_text">入場にお金はかかりますか？</div>
+          
+        </div>
+        <div class="QA_2">
+        <div class="QA_2_A">
+            <p>A</p>
+          </div>
+          <div class="QA_2_A_text">一切かかりません。</div>
+        </div>
+        <div class="QA_1_d">
+          <div class="QA_1_Q">
+            <p>Q</p>
+          </div>
+          <div class="QA_1_Q_text">出展を希望する企業はどこから問い合わせれば良いですか？</div>
+          
+        </div>
+        <div class="QA_2_d">
+        <div class="QA_2_A">
+            <p>A</p>
+          </div>
+          <div class="QA_2_A_text">こちらからお願いします。</div>
+        </div>
+        
+
+        </div>
+      </div>
+      <div class="tell_link">
+        <a href="https://docs.google.com/forms/d/e/1FAIpQLSdphU7Vu9xdSpRV0xaVSt9C6MpHUYG3OsTh7Vuqj8sGyInYqA/viewform" target="_blank" rel="noopener">https://docs.google.com/forms/d/e/1FAIpQLSdphU7Vu9xdSpRV0xaVSt9C6MpHUYG3OsTh7Vuqj8sGyInYqA/viewform</a>
+      </div>
+
+    </div>
     
         
   </div>
