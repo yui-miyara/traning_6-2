@@ -12,11 +12,11 @@
 <body>
   <div class="main_content">
     <div class="content_1" id="img">
-      <div class="logo"></div>
+      <img src="./images/stocksun_logo.png" width="186.78" height="48.6" class="logo"></img>
       <p class="text1">日本最大規模のフリーランスイベント</p>
-      <img src="./images/kv2.png" width="50%" height="auto"></img>
-      <img src="./images/dym_logo.svg" width="50%" height="auto" class="dym_logo"></img>
-      <img src="./images/sub_title.png" width="50%" height="auto" class="sub_title"></img>
+      <img src="./images/kv2.png" width="562" height="256.24" class="dym_logo"></img>
+      <img src="./images/dym_logo.svg" width="517" height="56.34" class="sub_title"></img>
+      <img src="./images/sub_title.png" width="257" heigh="24.15" class="sub_title_2"></img>
       <div class="date">3/4<span>sat</span>10:00-18:00</div>
       <p class="text2">東京国際フォーラム ホールＥ２</p>
       <div class="linebutton"></div>

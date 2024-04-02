@@ -13,17 +13,16 @@
   background-repeat: no-repeat;
   background-position: center;
   width: 100%;
-  height: auto;
+  height: 841.11px;
   margin-bottom: 48px;
+  margin-top: -24px;
 }
 
 .logo {
-  background-image: url(../images/stocksun_logo.png);
-  background-size: cover;
-  height: 48.6px;
-  max-width: 186.78px;
-  padding-top: 14.44px;
-  padding-left: 40.59px;
+  display: block;
+  margin-top: 24px;
+  margin-bottom: 40px;
+  margin-left: 40px;
 }
 
 .text1 {
@@ -32,11 +31,25 @@
   font-size: 28px;
   font-weight: 700;
   font-family: 'Noto Sans JP', sans-serif;
+  margin-bottom: 40px;
+}
+
+.dym_logo {
+  display: block;
+  margin: 0 auto;
+  margin-bottom: 40px;
 }
 
 .sub_title {
+  display: block;
+  margin: 0 auto;
+  margin-bottom: 20px;
+}
+
+.sub_title_2 {
   display: none;
-  padding-left: 25%;
+  margin: 0 auto;
+  margin-bottom: 40px;
 }
 
 .date {
@@ -46,6 +59,7 @@
   font-weight: 700;
   font-style: italic;
   line-height: 43.37px;
+  margin-bottom: 10px;
 }
 
 .date span {
@@ -55,6 +69,7 @@
   font-weight: 700;
   font-style: italic;
   line-height: 43.37px;
+  margin-bottom: 10px;
 }
 
 .text2 {
@@ -63,6 +78,7 @@
   font-size: 29.19px;
   font-weight: 700;
   font-family: 'Noto Sans JP', sans-serif;
+  margin-bottom: 30px;
 }
 
 .linebutton {
@@ -70,6 +86,7 @@
   height: 64px;
   max-width: 424px;
   margin: 0 auto;
+  margin-bottom: 40px;
 }
 
 @media screen and (max-width:1000px) {
@@ -100,9 +117,19 @@
 }
 
 @media screen and (max-width:600px) {
+  .content_1 {
+    height: 600px;
+  }
+
   .logo {
     max-width: 84.5px;
     height: 21.6px;
+    padding-top: 8px;
+  }
+
+  .dym_logo {
+    max-width: 440px;
+    height: 200px;
   }
 
   .text1 {
@@ -129,19 +156,28 @@
     display: none;
   }
 
-  .dym_logo {
+  .sub_title {
     display: none;
   }
 
-  .sub_title {
+  .sub_title_2 {
     display: block;
   }
 }
 
 @media screen and (max-width:440px) {
+  .content_1 {
+    height: 500px;
+  }
+
   .logo {
     max-width: 58.5px;
     height: 14.4px;
+  }
+
+  .dym_logo {
+    max-width: 320px;
+    height: 145px;
   }
 
   .text1 {
