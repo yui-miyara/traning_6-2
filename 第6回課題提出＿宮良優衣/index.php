@@ -43,7 +43,7 @@
           <p>2023月4日(土)開場10:00閉場18:00(受付開始9:30-)</p>
         </div>
         <div class="place">
-        <div class="content_img">会場</div>
+          <div class="content_img">会場</div>
           <p>東京国際フォーラム ホールE2</p>
         </div>
         <div class="event">
