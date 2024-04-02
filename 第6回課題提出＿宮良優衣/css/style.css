@@ -214,7 +214,7 @@
 }
 
 .summit {
-  margin-bottom: 30px;
+  margin-bottom: 12px;
 }
 
 .summit p {
@@ -231,7 +231,6 @@
   max-width: 325px;
   margin: 0 auto;
   height: 18px;
-  
 }
 
 .btn {
@@ -256,7 +255,7 @@
   margin: 0 auto;
   height: 90px;
   line-height: 2.0;
-  padding-top: 100px;
+  padding-top: 64px;
 }
 
 .text4 {
@@ -264,7 +263,7 @@
   margin: 0 auto;
   height: 139px;
   margin-bottom: 50px;
-  margin-top: -60px;
+  margin-top: -112px;
 }
 
 .text4 p {
@@ -277,6 +276,7 @@
 }
 
 .evn {
+  padding-top: 100px;
   margin-bottom: 30px;
 }
 
@@ -294,7 +294,7 @@
   max-width: 269px;
   margin: 0 auto;
   height: 20px;
-  margin-bottom: 70px;
+  margin-bottom: 52px;
 }
 
 .date2 {
@@ -334,7 +334,7 @@
   border-bottom: 1px dotted #c4c4c4;
   width: 80%;
   margin-left: 17%;
-  margin-bottom: 40px;
+  margin-bottom: 30px;
 }
 
 .place p {
@@ -344,7 +344,7 @@
   font-family: 'Noto Sans JP', sans-serif;
   margin-left: 21px;
   margin-top: 15px;
-  margin-bottom: 40px;
+  margin-bottom: 30px;
 }
 
 .event {
