@@ -998,13 +998,11 @@
   font-size: 60px;
   font-weight: 700;
   font-style: italic;
-  margin-top: 60px;
+  margin-top: 36px
 }
 
-.text11 {
-  background-image: url(../images/text11.png);
-  height: 18px;
-  max-width: 209px;
+.undertext11 {
+  display: block;
   margin: 0 auto;
   margin-bottom: 40px;
 }
@@ -1023,7 +1021,7 @@
 
 .logo_1 {
   height: 60px;
-  max-width: 30%;
+  max-width: 25%;
   margin: 0 auto;
 }
 .logo_text, .logo_text_5 {
@@ -1361,7 +1359,7 @@
   height: 18px;
   max-width: 269px;
   margin: 0 auto;
-  margin-bottom: 48px;
+  margin-bottom: 60px;
 }
 
 .list {
