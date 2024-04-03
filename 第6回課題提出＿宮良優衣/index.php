@@ -137,7 +137,7 @@
       <div class="strait_1"></div>
       <div class="pick">
         <div class="pickup">Pick Up</div>
-        <div class="text11"></div>
+        <img src="./images/text11.png" width="209" height="18" class="undertext11"></img>
         <table class="company">
           <tr>
             <td class="logo_1">
