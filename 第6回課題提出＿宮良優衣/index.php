@@ -478,9 +478,9 @@
         <img src="./images/content8_border.png" width="90%" height="2"></img>
       </div>
       <div class="header">
-        <p>運営会社</p>
+        <p class="unei">運営会社</p>
         <img src="./images/stocksun_logo.png" width="210" height="64"></img>
-        <p>個人情報保護方針</p>
+        <p class="kojin">個人情報保護方針</p>
       </div>
     </div>
     
