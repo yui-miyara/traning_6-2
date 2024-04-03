@@ -1472,7 +1472,7 @@
   font-weight: 700;
   font-style: italic;
   line-height: 40px;
-  padding-top: 60px;
+  padding-top: 100px;
   padding-bottom: 24px;
 }
 
@@ -1485,7 +1485,7 @@
 
 .people {
   height: 1050px;
-  max-width: 75%;
+  max-width: 948px;
   margin: 0 auto;
   margin-top: 48px;
 }
@@ -2247,7 +2247,7 @@
 }
 
 .FAQ_content {
-  max-width: 50%;
+  max-width: 53%;
   height: 650px;
   margin: 0 auto;
 }
@@ -2270,7 +2270,7 @@
   max-width: 209px;
   height: 18px;
   margin: 0 auto;
-  margin-bottom: 50px;
+  margin-bottom: 60px;
 }
 
 .content7_right_white {
@@ -2289,7 +2289,7 @@
 }
 
 .QA_1, .QA_1_d {
-  margin-bottom: 20px;
+  margin-bottom: 12px;
   display: flex;
 }
 
@@ -2319,7 +2319,7 @@
 }
 
 .QA_2, .QA_2_d {
-  margin-bottom: 60px;
+  margin-bottom: 52px;
   display: flex;
 }
 
