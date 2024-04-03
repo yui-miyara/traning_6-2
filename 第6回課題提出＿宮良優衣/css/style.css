@@ -2446,13 +2446,24 @@
   margin-top: 10px;
 }
 
-.header p {
+.unei {
+  color: white;
+  font-size: 14px;
+  font-weight: 500;
+  line-height: 20px;
+  font-family: 'Noto Sans JP', sans-serif;
+  padding-top: 36px;
+  padding-right: 5px;
+}
+
+.kojin {
   color: white;
   font-size: 14px;
   font-weight: 500;
   line-height: 20px;
   font-family: 'Noto Sans JP', sans-serif;
   padding-top: 35px;
+  padding-left: 50px;
 }
 
 @media screen and (max-width:800px) {
@@ -2475,9 +2486,27 @@
   }
 }
 
+@media screen and (max-width:600px) {
+  .header {
+    max-width: 540px;
+    margin-left: 5%;
+  }
+
+  .unei{
+    padding-left: 20px;
+    padding-right: 50px;
+    font-size: 10px;
+  }
+
+  .kojin{
+    padding-left: 30px;
+    font-size: 10px;
+  }
+}
+
 @media screen and (max-width:500px) {
   .header {
-    max-width: 235px;
+    max-width: 450px;
   }
 
   .header img {
@@ -2485,9 +2514,13 @@
     height: 31.65px;
   }
 
-  .header p {
+  .unei, .kojin {
     font-size: 9.12px;
     line-height: 13.02px;
     padding-top: 16px;
+  }
+
+  .unei {
+    padding-left: 40px;
   }
 }
