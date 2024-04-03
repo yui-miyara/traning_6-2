@@ -1343,7 +1343,7 @@
   background-position: center;
   height: 517px;
   width: 100%;
-  margin-bottom: 96px;
+  margin-bottom: 168px;
 }
 
 .about {
@@ -1359,15 +1359,15 @@
   height: 18px;
   max-width: 269px;
   margin: 0 auto;
-  margin-bottom: 60px;
+  margin-bottom: 72px;
 }
 
 .list {
   display: flex;
-  max-width: 65%;
+  max-width: 60%;
   margin: 0 auto;
   justify-content: space-between;
-  margin-bottom: 24px;
+  margin-bottom: 36px;
 }
 
 .list_1 {
@@ -1396,7 +1396,6 @@
   font-weight: 500;
   line-height: 36px;
   font-family: 'Noto Sans JP', sans-serif;
-  margin-bottom: 60px;
 }
 
 @media screen and (max-width:1000px) {
