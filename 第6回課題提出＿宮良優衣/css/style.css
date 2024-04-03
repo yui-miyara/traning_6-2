@@ -1472,7 +1472,7 @@
   font-weight: 700;
   font-style: italic;
   line-height: 40px;
-  padding-top: 60px;
+  padding-top: 100px;
   padding-bottom: 24px;
 }
 
@@ -1485,7 +1485,7 @@
 
 .people {
   height: 1050px;
-  max-width: 75%;
+  max-width: 948px;
   margin: 0 auto;
   margin-top: 48px;
 }
