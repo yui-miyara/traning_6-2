@@ -15,14 +15,15 @@
   width: 100%;
   height: 841.11px;
   margin-bottom: 48px;
-  margin-top: -24px;
+  margin-top: -40px;
 }
 
 .logo {
   display: block;
-  margin-top: 24px;
+  margin-top: 40px;
   margin-bottom: 40px;
   margin-left: 40px;
+  padding-top: 10px;
 }
 
 .text1 {
@@ -37,7 +38,7 @@
 .dym_logo {
   display: block;
   margin: 0 auto;
-  margin-bottom: 40px;
+  margin-bottom: 32px;
 }
 
 .sub_title {
@@ -512,6 +513,10 @@
   .content_2 {
     margin-bottom: 450px;
   }
+
+  .img3_1 {
+    margin-left: 25%;
+  }
 }
 
 @media screen and (max-width:600px) {
@@ -618,6 +623,12 @@
   }
 }
 
+@media screen and (max-width:500px) {
+  .img3_1 {
+    margin-left: 13%;
+  }
+}
+
 @media screen and (max-width:450px) {
 
   .text4 {
@@ -638,7 +649,13 @@
   }
 
   .img3_1 {
-    margin-left: 3%;
+    margin-left: 4%;
+  }
+}
+
+@media screen and (max-width:390px) {
+  .img3_1 {
+    margin-left: 1%;
   }
 }
 
@@ -660,8 +677,8 @@
   text-align: center;
   font-weight: 700;
   font-style: italic;
-  padding-top: 60px;
-  margin-bottom: 36px;
+  padding-top: 68px;
+  margin-bottom: 28px;
 }
 
 .text7 {
@@ -669,7 +686,7 @@
   height: 18px;
   max-width: 209px;
   margin: 0 auto;
-  margin-bottom: 40px;
+  margin-bottom: 48px;
 }
 
 .detail {
@@ -1033,6 +1050,7 @@
   font-weight: 500;
   font-family: 'Noto Sans JP', sans-serif;
   margin-bottom: 30px;
+  padding-left: 30px;
   text-align: left;
 }
 
@@ -1359,7 +1377,7 @@
   height: 18px;
   max-width: 269px;
   margin: 0 auto;
-  margin-bottom: 72px;
+  margin-bottom: 88px;
 }
 
 .list {
@@ -1487,7 +1505,7 @@
   height: 1050px;
   max-width: 948px;
   margin: 0 auto;
-  margin-top: 48px;
+  margin-top: 60px;
 }
 
 .people_1 {
@@ -2348,11 +2366,7 @@
   font-family: 'Noto Sans JP', sans-serif;
 }
 
-.tell_link {
-  margin-bottom: 30px;
-}
-
-.tell_link a {
+.QA_2_A_text a {
   color: black;
 }
 

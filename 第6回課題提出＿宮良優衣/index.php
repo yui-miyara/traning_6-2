@@ -427,10 +427,9 @@
             <p>Q</p>
           </div>
           <div class="QA_1_Q_text">再入場はできますか？</div>
-          
         </div>
         <div class="QA_2">
-        <div class="QA_2_A">
+          <div class="QA_2_A">
             <p>A</p>
           </div>
           <div class="QA_2_A_text">できます。</div>
@@ -440,10 +439,9 @@
             <p>Q</p>
           </div>
           <div class="QA_1_Q_text">入場にお金はかかりますか？</div>
-          
         </div>
         <div class="QA_2">
-        <div class="QA_2_A">
+          <div class="QA_2_A">
             <p>A</p>
           </div>
           <div class="QA_2_A_text">一切かかりません。</div>
@@ -453,22 +451,15 @@
             <p>Q</p>
           </div>
           <div class="QA_1_Q_text">出展を希望する企業はどこから問い合わせれば良いですか？</div>
-          
         </div>
         <div class="QA_2_d">
-        <div class="QA_2_A">
+          <div class="QA_2_A">
             <p>A</p>
           </div>
-          <div class="QA_2_A_text">こちらからお願いします。</div>
+          <div class="QA_2_A_text"><a href="https://docs.google.com/forms/d/e/1FAIpQLSdphU7Vu9xdSpRV0xaVSt9C6MpHUYG3OsTh7Vuqj8sGyInYqA/viewform" target="_blank" rel="noopener">こちら</a>からお願いします。</div>
         </div>
-        
-
         </div>
       </div>
-      <div class="tell_link">
-        <a href="https://docs.google.com/forms/d/e/1FAIpQLSdphU7Vu9xdSpRV0xaVSt9C6MpHUYG3OsTh7Vuqj8sGyInYqA/viewform" target="_blank" rel="noopener">https://docs.google.com/forms/d/e/1FAIpQLSdphU7Vu9xdSpRV0xaVSt9C6MpHUYG3OsTh7Vuqj8sGyInYqA/viewform</a>
-      </div>
-
     </div>
     <div class="content_8">
       <div class="content8_maru">
