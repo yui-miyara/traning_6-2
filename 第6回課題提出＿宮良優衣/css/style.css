@@ -1405,6 +1405,7 @@
   font-weight: 500;
   line-height: 40px;
   font-family: 'Noto Sans JP', sans-serif;
+  white-space: nowrap;
 }
 
 .text12 {
