@@ -1406,6 +1406,7 @@
   line-height: 40px;
   font-family: 'Noto Sans JP', sans-serif;
   white-space: nowrap;
+  padding-left: 15px;
 }
 
 .text12 {
@@ -1437,6 +1438,15 @@
   .list {
     max-width: 80%;
   }
+
+  .list_1 {
+    font-size: 16px;
+  }
+
+  .list_2 {
+    padding-left: 15px;
+    font-size: 16px;
+  }
 }
 
 @media screen and (max-width:800px) {
@@ -1445,11 +1455,11 @@
   }
 
   .list {
-    max-width: 95%;
+    max-width: 80%;
   }
 
   .list_1, .list_2, .text12 {
-    font-size: 16px;
+    font-size: 12px;
   }
 }
 
@@ -1464,6 +1474,10 @@
 
   .list {
     max-width: 97%;
+  }
+
+  .list_2 {
+
   }
 
   .list_1, .list_2, .text12 {
