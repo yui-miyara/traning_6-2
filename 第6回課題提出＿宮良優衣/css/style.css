@@ -625,7 +625,8 @@
 
 @media screen and (max-width:500px) {
   .img3_1 {
-    margin-left: 13%;
+    /* margin-left: 13%; */
+    margin: 0 auto;
   }
 }
 
@@ -649,13 +650,14 @@
   }
 
   .img3_1 {
-    margin-left: 4%;
+    margin: 0 auto;
+    width: 340px;
   }
 }
 
 @media screen and (max-width:390px) {
   .img3_1 {
-    margin-left: 1%;
+    margin: 0 auto;
   }
 }
 
@@ -1467,6 +1469,10 @@
     justify-content:space-between;
     height: 700px;
     max-width: 80%;
+  }
+
+  .list_2 {
+    padding-left: 0px;
   }
 
   .text12 {
@@ -2285,6 +2291,10 @@
   .schedule {
     font-size: 36px;
   }
+
+  .people_box_s {
+    width: 345px;
+  }
 }
 
 .content_7 {
@@ -2495,6 +2505,7 @@
   font-family: 'Noto Sans JP', sans-serif;
   padding-top: 36px;
   padding-right: 5px;
+  white-space: nowrap;
 }
 
 .kojin {
@@ -2505,6 +2516,7 @@
   font-family: 'Noto Sans JP', sans-serif;
   padding-top: 35px;
   padding-left: 50px;
+  white-space: nowrap;
 }
 
 @media screen and (max-width:800px) {
@@ -2563,5 +2575,11 @@
 
   .unei {
     padding-left: 40px;
+  }
+}
+@media screen and (max-width:400px) {
+  .header {
+    max-width: 350px;
+    margin-left: -10px;
   }
 }
