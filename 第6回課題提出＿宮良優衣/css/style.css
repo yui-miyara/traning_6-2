@@ -1308,6 +1308,14 @@
 }
 
 @media screen and (max-width:430px) {
+  .strait_1, .strait_2 {
+    display: none;
+  }
+
+  .pick {
+    width: 100%;
+  }
+
   .pickup {
     font-size: 36px;
   }
@@ -1477,6 +1485,7 @@
 
   .text12 {
     padding-right: 35px;
+    font-size: 16px;
   }
 }
 
@@ -1504,7 +1513,7 @@
   }
 
   .list_1, .list_2 {
-    font-size: 18px;
+    font-size: 16px;
   }
 }
 
@@ -1900,7 +1909,7 @@
   align-items: center;
   justify-content: center;
   justify-content:space-between;
-  height: 350px;
+  height: 335px;
   margin-top: 30px;
 }
 
@@ -1985,8 +1994,8 @@
   align-items: center;
   justify-content: center;
   justify-content:space-between;
-  height: 350px;
-  margin-top: 30px;
+  height: 330px;
+  margin-top: 16px;
   display: none;
 }
 
@@ -2066,7 +2075,7 @@
   align-items: center;
   justify-content: center;
   justify-content:space-between;
-  height: 350px;
+  height: 330px;
   display: none;
 }
 
@@ -2451,7 +2460,7 @@
 }
 
   .FAQ_content {
-    max-width: 75%;
+    max-width: 80%;
   }
 }
 
