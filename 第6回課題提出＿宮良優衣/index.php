@@ -153,7 +153,8 @@
           </tr>
           <tr>
             <td class="logo_3">
-              <img src="./images/BOC.png" width="266.79" height="30"></img>
+              <img src="./images/BOC.png" width="266.79" height="30" class="BOC"></img>
+              <img src="./images/BOC_2.png" width="356" heigh="40" class="BOC_2"></img>
             </td>
             <td class="logo_text">台湾の「食文化」の導入により、日本の飲食業をクリエイティブに。</td>
           </tr>
