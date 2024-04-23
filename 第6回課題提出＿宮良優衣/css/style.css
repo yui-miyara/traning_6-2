@@ -1076,6 +1076,10 @@
   margin: 0 auto;
 }
 
+.BOC_2 {
+  display: none;
+}
+
 .logo_4 {
   height: 60px;
   max-width: 30%;
@@ -1125,7 +1129,7 @@
     margin: 0 auto;
   }
 
-  .logo_3 img {
+  .BOC {
     width: 300px;
     height: auto;
   }
@@ -1202,7 +1206,7 @@
     margin: 0 auto;
   }
 
-  .logo_3 img {
+  .BOC {
     width: 330px;
     height: auto;
   }
@@ -1276,7 +1280,7 @@
     margin: 0 auto;
   }
 
-  .logo_3 img {
+  .BOC {
     width: 330px;
     height: auto;
   }
@@ -1345,10 +1349,16 @@
     max-width: 90%;
     margin: 0 auto;
   }
+  
+  .BOC {
+    display: none;
+  }
 
-  .logo_3 img {
+  .BOC_2 {
+    display: block;
     width: 330px;
     height: auto;
+    margin-left: -8px;
   }
 
   .logo_4 {
